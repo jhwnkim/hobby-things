@@ -1,8 +1,8 @@
 /* Global Variables */
 unsigned int sec = 0, minute=0, hour=0, day=0;
-unsigned int timer_day=3;
+unsigned int timer_day=2;
 unsigned int water_timer_sec = 25, water_cycle=8;
-bool avocadotime=false;
+bool avocadotime=true;
 
 void setup() {
   // put your setup code here, to run once:
