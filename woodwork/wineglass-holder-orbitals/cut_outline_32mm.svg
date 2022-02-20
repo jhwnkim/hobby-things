@@ -8,7 +8,7 @@
    viewBox="0 0 918 594"
    xml:space="preserve"
    id="svg215"
-   sodipodi:docname="gavinpallas.svg"
+   sodipodi:docname="cut_outline_32mm.svg"
    inkscape:version="1.1 (c68e22c387, 2021-05-23)"
    width="1224"
    height="792"
@@ -28,15 +28,15 @@
    inkscape:pageopacity="0.0"
    inkscape:pagecheckerboard="0"
    showgrid="false"
-   inkscape:zoom="1.4264706"
-   inkscape:cx="352.96907"
-   inkscape:cy="259.03093"
-   inkscape:window-width="2560"
-   inkscape:window-height="1377"
-   inkscape:window-x="-8"
-   inkscape:window-y="-8"
-   inkscape:window-maximized="1"
-   inkscape:current-layer="layer1"
+   inkscape:zoom="0.35661765"
+   inkscape:cx="869.27834"
+   inkscape:cy="879.09278"
+   inkscape:window-width="1271"
+   inkscape:window-height="1081"
+   inkscape:window-x="1140"
+   inkscape:window-y="280"
+   inkscape:window-maximized="0"
+   inkscape:current-layer="svg215"
    inkscape:document-units="in" />
 <style
    type="text/css"
@@ -164,7 +164,17 @@
    ry="53.900002"
    id="ellipse48" />
 </g>
-
+<path
+   class="st6"
+   d="m 240.84948,397.47423 c -44.1,0 -82.8,-29.3 -94.7,-71.7 -1.7,-5.9 0.6,-9.1 6.8,-9.1 19.8,0 39.6,0 59.4,0 2.3,0 3.8,0.7 5.3,2.4 19.1,21.4 54.5,7.8 54.4,-20.8 0,-28.7 -35.5,-42.1 -54.5,-20.7 -1.5,1.7 -3,2.4 -5.3,2.4 -20.1,0 -40.3,0 -60.4,0 -5.9,-0.4 -7.9,-3.4 -6.3,-9 12.2,-42.6 51.1,-71.9 95.4,-71.9 70.9,0 141.7,0 212.6,0 70.9,0 141.7,0 212.6,0 44.3,0 83.2,29.3 95.4,71.9 1.6,5.7 -0.4,8.6 -6.3,9 -20.1,0 -40.3,0 -60.4,0 -2.3,0 -3.8,-0.7 -5.3,-2.4 -19,-21.4 -54.4,-8 -54.5,20.7 -0.1,28.7 35.3,42.2 54.4,20.8 1.5,-1.7 3,-2.4 5.3,-2.4 19.8,0 39.6,0 59.4,0 6.2,0 8.5,3.1 6.8,9.1 -11.9,42.4 -50.6,71.7 -94.7,71.7 -70.9,0 -141.7,0 -212.6,0 -70.9,0 -141.9,0 -212.8,0 z"
+   id="path51"
+   style="vector-effect:non-scaling-stroke;fill:none;fill-opacity:1;stroke:#00ff00;stroke-width:0.01;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;-inkscape-stroke:hairline" /><circle
+   class="st6"
+   cx="453.44946"
+   cy="298.2742"
+   r="45.400002"
+   id="circle53"
+   style="vector-effect:non-scaling-stroke;fill:none;fill-opacity:1;stroke:#00ff00;stroke-width:0.01;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;-inkscape-stroke:hairline" />
 <g
    id="Layer_02"
    class="st0">
@@ -406,45 +416,4 @@
 	</g>
 </g>
 
-<g
-   inkscape:groupmode="layer"
-   id="layer1"
-   inkscape:label="Layer 1"><g
-     id="g8049"
-     transform="translate(-145.01939,-199.07423)"
-     style="stroke:#00ff00;stroke-opacity:1"><path
-       class="st6"
-       d="m 240.84948,397.47423 c -44.1,0 -82.8,-29.3 -94.7,-71.7 -1.7,-5.9 0.6,-9.1 6.8,-9.1 19.8,0 39.6,0 59.4,0 2.3,0 3.8,0.7 5.3,2.4 19.1,21.4 54.5,7.8 54.4,-20.8 0,-28.7 -35.5,-42.1 -54.5,-20.7 -1.5,1.7 -3,2.4 -5.3,2.4 -20.1,0 -40.3,0 -60.4,0 -5.9,-0.4 -7.9,-3.4 -6.3,-9 12.2,-42.6 51.1,-71.9 95.4,-71.9 70.9,0 141.7,0 212.6,0 70.9,0 141.7,0 212.6,0 44.3,0 83.2,29.3 95.4,71.9 1.6,5.7 -0.4,8.6 -6.3,9 -20.1,0 -40.3,0 -60.4,0 -2.3,0 -3.8,-0.7 -5.3,-2.4 -19,-21.4 -54.4,-8 -54.5,20.7 -0.1,28.7 35.3,42.2 54.4,20.8 1.5,-1.7 3,-2.4 5.3,-2.4 19.8,0 39.6,0 59.4,0 6.2,0 8.5,3.1 6.8,9.1 -11.9,42.4 -50.6,71.7 -94.7,71.7 -70.9,0 -141.7,0 -212.6,0 -70.9,0 -141.9,0 -212.8,0 z"
-       id="path51"
-       style="vector-effect:non-scaling-stroke;fill:none;fill-opacity:1;stroke:#00ff00;stroke-width:0.01;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;-inkscape-stroke:hairline" /><circle
-       class="st6"
-       cx="453.44946"
-       cy="298.2742"
-       r="45.400002"
-       id="circle53"
-       style="vector-effect:non-scaling-stroke;fill:none;fill-opacity:1;stroke:#00ff00;stroke-width:0.01;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;-inkscape-stroke:hairline" /></g></g><g
-   inkscape:groupmode="layer"
-   id="layer2"
-   inkscape:label="Layer 2"
-   style="display:inline"><text
-     xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman,  Bold';stroke-width:0.75"
-     x="308.20197"
-     y="180.91467"
-     id="text3411"><tspan
-       sodipodi:role="line"
-       id="tspan3409"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman,  Bold';text-align:center;text-anchor:middle;stroke-width:0.75"
-       x="308.20197"
-       y="180.91467">Gavin and Pallas</tspan></text><text
-     xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman,  Bold';stroke-width:0.75"
-     x="-308.85822"
-     y="-17.510849"
-     id="text11354"
-     transform="scale(-1)"><tspan
-       sodipodi:role="line"
-       id="tspan11352"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman,  Bold';text-align:center;text-anchor:middle;stroke-width:0.75"
-       x="-308.85822"
-       y="-17.510849">Pallas and Gavin</tspan></text></g></svg>
+</svg>
